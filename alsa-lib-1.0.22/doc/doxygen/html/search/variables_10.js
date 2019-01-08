@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['sender',['sender',['../structsnd__seq__connect__t.html#ae2cf2bca3746f3209cb977d7e489f9cb',1,'snd_seq_connect_t']]],
+  ['skew',['skew',['../structsnd__seq__ev__queue__control__t.html#a99ddb8cf040c98f36307a9fa2bcbeadf',1,'snd_seq_ev_queue_control_t']]],
+  ['slave_5fchannels',['slave_channels',['../structsnd__pcm__extplug.html#a866bd487dd9c2a25be8420bc2dfb3213',1,'snd_pcm_extplug']]],
+  ['slave_5fformat',['slave_format',['../structsnd__pcm__extplug.html#af7139d1d35e334ac6c14b5e51b38d285',1,'snd_pcm_extplug']]],
+  ['slave_5fsubformat',['slave_subformat',['../structsnd__pcm__extplug.html#a23a61b2db905d645fcdf98f9c86715a7',1,'snd_pcm_extplug']]],
+  ['snd_5fconfig',['snd_config',['../group___config.html#ga6cf7955d3a072d354dab4d7b536c7831',1,'snd_config():&#160;conf.c'],['../group___config.html#ga6cf7955d3a072d354dab4d7b536c7831',1,'snd_config():&#160;conf.c']]],
+  ['snd_5ferr_5fmsg',['snd_err_msg',['../error_8c.html#a9bea29fb70a0932bd17f91b47926dfbe',1,'error.c']]],
+  ['snd_5flib_5ferror',['snd_lib_error',['../group___error.html#gad6a605072dcc056de5f86d67687d90a6',1,'snd_lib_error():&#160;error.c'],['../group___error.html#gad6a605072dcc056de5f86d67687d90a6',1,'snd_lib_error():&#160;error.c']]],
+  ['snd_5fseq_5fevent_5ftypes',['snd_seq_event_types',['../group___seq_ev_type.html#gaa40bbb018018a491bd102e6fe58a6c84',1,'snd_seq_event_types():&#160;seq_event.c'],['../group___seq_ev_type.html#gaa40bbb018018a491bd102e6fe58a6c84',1,'snd_seq_event_types():&#160;seq_event.c']]],
+  ['source',['source',['../structsnd__seq__event__t.html#a7043d2583446dfcb3da764d803b4a03a',1,'snd_seq_event_t']]],
+  ['start',['start',['../structsnd__pcm__scope__ops__t.html#a385ac63fdbf6ccc36176fa5478d8ac6e',1,'snd_pcm_scope_ops_t::start()'],['../structsnd__pcm__ioplug__callback.html#a26130cd61ac1c47d788fb806de7e53d0',1,'snd_pcm_ioplug_callback::start()']]],
+  ['state',['state',['../structsnd__pcm__ioplug.html#a9a25a295689632b4de8e7e673f57e94c',1,'snd_pcm_ioplug']]],
+  ['status',['status',['../structsnd__aes__iec958__t.html#a7a20cb45037d7bbc801c1738f754ccbb',1,'snd_aes_iec958_t']]],
+  ['step',['step',['../structsnd__pcm__channel__area__t.html#aedbe57a917a0ba24bf1f526387e6e43a',1,'snd_pcm_channel_area_t']]],
+  ['stop',['stop',['../structsnd__pcm__scope__ops__t.html#a5dfdb8c411db54ba06ded3dbbc602953',1,'snd_pcm_scope_ops_t::stop()'],['../structsnd__pcm__ioplug__callback.html#afbbb193940d8a0fdd04d2d91d885e9f5',1,'snd_pcm_ioplug_callback::stop()']]],
+  ['stream',['stream',['../structsnd__pcm__extplug.html#a3ea13d6c27a29ecac48b00304888379b',1,'snd_pcm_extplug::stream()'],['../structsnd__pcm__ioplug.html#a8e67308342c0c6eab702016a402b4647',1,'snd_pcm_ioplug::stream()']]],
+  ['subcode',['subcode',['../structsnd__aes__iec958__t.html#a6de9312c8311619446de6a758aa5111f',1,'snd_aes_iec958_t']]],
+  ['subformat',['subformat',['../structsnd__pcm__extplug.html#a97a6650ec5390d450510558bb9ccdbe0',1,'snd_pcm_extplug']]],
+  ['subscribe_5fevents',['subscribe_events',['../structsnd__ctl__ext__callback.html#a0f311ec8d3db7ec97649f30920039340',1,'snd_ctl_ext_callback']]],
+  ['subscribed',['subscribed',['../structsnd__ctl__ext.html#a3a07d58cb46680c6cb9023dbf72e3120',1,'snd_ctl_ext']]],
+  ['sw_5fparams',['sw_params',['../structsnd__pcm__ioplug__callback.html#a67eceefe04515ec6e18c23cff297f920',1,'snd_pcm_ioplug_callback']]]
+];
